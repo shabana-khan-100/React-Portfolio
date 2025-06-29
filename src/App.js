@@ -30,9 +30,6 @@ function App() {
         <section id="projects" className="min-h-screen">
           <Projects />
         </section>
-        {/* <section id="contact" className="min-h-screen">
-          <Contact />
-        </section> */}
       </div>
     </div>
   );
