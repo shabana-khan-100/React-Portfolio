@@ -1,0 +1,54 @@
+[
+  {
+    "title": "AiDE Aware",
+    "date": "Apr 2025 – Present",
+    "description": "Next.js-based cybersecurity awareness platform with interactive dashboards and campaign modules.",
+    "techStack": [
+      "Next.js",
+      "React",
+      "Tailwind CSS",
+      "Material UI",
+      "Formik",
+      "Yup",
+      "React Charts",
+      "Node.js",
+      "AWS",
+      "Postfix"
+    ],
+    "tags": ["Full-stack", "Security", "AI"],
+    "githubLink": "https://github.com/Shabana-K/aide-aware",
+    "highlight": true
+  },
+  {
+    "title": "Interview Bot",
+    "date": "Jan – Mar 2025",
+    "description": "AI-based interview platform with resume parsing, scoring automation, and real-time interview flow.",
+    "techStack": ["React", "Vite", "WebSocket", "Material UI"],
+    "tags": ["AI", "Frontend"],
+    "githubLink": "https://github.com/Shabana-K/interview-bot",
+    "highlight": true
+  },
+  {
+    "title": "TASQ Portal",
+    "date": "Mar – Oct 2024 & Jan – Feb 2025",
+    "description": "Bench management tool with interactive dashboards and drag-and-drop UI.",
+    "techStack": ["React", "Tailwind CSS", "Material UI", "Formik", "Yup"],
+    "tags": ["Full-stack", "Dashboard"],
+    "highlight": true
+  },
+  {
+    "title": "VS Code AI Plugin",
+    "date": "Nov – Dec 2024",
+    "description": "AI-powered automation plugin for VS Code with intelligent suggestions and bug fixes.",
+    "techStack": ["TypeScript", "VS Code API"],
+    "tags": ["AI", "Tooling"],
+    "highlight": true
+  },
+  {
+    "title": "ADFS Login Microfrontend Application",
+    "date": "Jan – Feb 2024",
+    "description": "Plug-and-play Azure AD login module for React, Angular, and other frameworks.",
+    "techStack": ["React", "Angular", "Tailwind CSS", "TypeScript"],
+    "tags": ["Frontend", "Security"]
+  }
+]

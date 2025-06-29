@@ -1,0 +1,84 @@
+Professional Summary
+Resourceful and driven Full-Stack Developer with 2.6 years of industry experience, including 1.4 years in full-stack development, manual AWS deployment, and unit testing. Skilled in building scalable, user-friendly applications using React, Next.js, Node.js, and AWS cloud services. Adept at both frontend and backend development with strong command over secure API design, responsive UI/UX, and deployment on Linux-based AWS platforms. Recognized for delivering high-quality solutions on time and awarded “Star of the Month” twice at ValueLabs for performance and dedication.
+
+Skills Summary
+Frontend Development: React.js, Next.js, Angular, JavaScript (ES6+), TypeScript, HTML5, CSS3, Tailwind CSS, Material UI, Formik, Yup, React Charts
+Backend & API Development: Node.js (basic), Express.js, REST APIs, JWT-based authentication
+Testing & Version Control: Jest, React Testing Library, Git, GitHub, Bitbucket
+Cloud & Deployment: AWS (S3, Lambda, CloudFront, Edge Lambda, RDS, Auto Scaling), manual deployment on Linux-based AWS platforms, WebSocket integration
+Development Tools: VS Code, Vite, Webpack, Postman, GitHub Actions
+Other Capabilities: Responsive Web Design, Microfrontend Architecture, Plugin Development, Secure Form Validation, Dashboard Visualizations, Mail Server Setup (Postfix), Cron Scheduling, Domain NS Record Management
+
+Work Experience
+Frontend / Full-Stack Developer
+ValueLabs | Mar 2022 – Present
+
+Built and maintained scalable, responsive frontend applications using React, Next.js, Tailwind CSS, and Material UI.
+
+Developed microfrontend-based authentication modules compatible with various JavaScript frameworks (React/Angular).
+
+Spearheaded UI/UX enhancements across multiple enterprise-grade applications.
+
+Implemented form validation with Formik/Yup and dynamic visualizations using React Charts.
+
+Contributed to backend API development and manually deployed applications on AWS infrastructure including S3, Lambda, RDS, CloudFront, and Auto Scaling on Linux platforms.
+
+Took ownership of deployment tasks for AiDE Aware on AWS Linux instances, ensuring reliable production releases.
+
+Led unit testing initiatives to improve application stability and code quality.
+
+Configured a custom Postfix mail server and created required NS records for domain-level DNS configuration.
+
+Built a scheduler using cron to automate mail communication for training and campaigns using Nodemailer.
+
+Prepared and delivered presentations, including PPTs, for client calls and prospect meetings.
+
+Confidently answered client questions regarding application features and functionality during demos.
+
+Conducted demos of applications to MVPs, clients, and leads, facilitating clear understanding and engagement.
+
+Key Projects
+1. ADFS Login Microfrontend Application (Jan – Feb 2024)
+Plug-and-play Azure AD login module for React, Angular, and other frameworks using Tailwind CSS and TypeScript.
+
+2. TASQ Portal – Phase 1 (Mar – Oct 2024)
+Bench management tool using React, Tailwind CSS, Material UI, Formik, Yup. Interactive dashboards built with React Graphs; responsive UI for all device types.
+
+3. VS Code AI Plugin (Nov – Dec 2024)
+AI-powered automation plugin for VS Code with intelligent suggestions, bug fixes, and workflow optimization.
+
+4. TASQ Portal – Phase 2 (Jan – Feb 2025)
+Enhanced functionalities with drag-and-drop UI, improved Material UI tables, and optimized API logic.
+
+5. Interview Bot (Jan – Mar 2025)
+AI-based interview platform developed with React, Vite, WebSocket. Integrated resume parsing, scoring automation, and real-time interview flow.
+
+6. AiDE Aware (Apr 2025 – Present)
+Next.js-based cybersecurity awareness platform with interactive dashboards and campaign modules. Used Formik, Yup, Tailwind CSS, React Charts; developed backend APIs and deployed using AWS (S3, Lambda, RDS, CloudFront). Set up a custom mail server using Postfix and configured DNS records. Automated email notifications using Nodemailer and custom cron jobs for campaign and training alerts.
+
+
+Education
+Bachelor of Technology – Information Technology
+CMR College of Engineering & Technology | Aug 2019 – Mar 2023
+CGPA: 9.58
+
+Intermediate – MPC
+Kakatiya Junior College | Jun 2017 – Mar 2019
+Percentage: 98.3%
+
+Secondary Education
+Tetrahedron High School | Mar 2017
+CGPA: 9.2
+
+Certifications
+React.js Developer Certification
+
+Achievements
+🏅 Star of the Month Award (2x) – ValueLabs
+Recognized for timely delivery and exceptional ownership in project execution.
+
+✅ Successfully transitioned from frontend to full-stack role and contributed to backend API optimization, cloud deployment, and automated testing workflows.
+
+🚀 Independently led frontend implementation for high-impact AI-driven platforms.
+
+🛡️ Gaining knowledge as a Junior Penetration Tester via TryHackMe, completed several challenges to enhance application security.
