@@ -1,0 +1,20 @@
+ [
+  {
+    "degree": "Bachelor of Technology – Information Technology",
+    "school": "CMR College of Engineering & Technology",
+    "date": "Aug 2019 – Mar 2023",
+    "cgpa": "9.58"
+  },
+  {
+    "degree": "Intermediate – MPC",
+    "school": "Sri chaitanya Junior Kalasala",
+    "date": "Jun 2017 – Mar 2019",
+    "percentage": "98.3%"
+  },
+  {
+    "degree": "Secondary Education",
+    "school": "B.V.N High School",
+    "date": "Mar 2017",
+    "cgpa": "9.2"
+  }
+]

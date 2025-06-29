@@ -47,19 +47,6 @@ const Projects = () => {
                   </div>
                 </div>
               </div>
-              {/* <div className="mt-auto">
-                {project.githubLink && (
-                  <a
-                    href={project.githubLink}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="inline-flex items-center px-4 py-2 bg-gray-700 hover:bg-gray-600 text-white font-semibold rounded-lg"
-                  >
-                    <FaGithub className="mr-2" />
-                    View on GitHub
-                  </a>
-                )}
-              </div> */}
             </div>
           ))}
         </div>

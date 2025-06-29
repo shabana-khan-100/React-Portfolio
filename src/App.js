@@ -2,9 +2,10 @@ import React from "react";
 import Cursor from "./components/Cursor";
 import Hero from "./components/Hero";
 import About from "./components/About";
-import Timeline from "./components/Timeline";
-import timelineData from "./data/timeline";
-import "./components/Timeline.css";
+import Experience from "./components/experience";
+import Education from "./components/Education";
+import Certifications from "./components/Certifications";
+import "./components/Experience.css";
 import TechSet from "./components/TechSet";
 import Projects from "./components/Projects";
 // import Contact from "./components/Contact";
@@ -21,8 +22,14 @@ function App() {
         <section id="about" className="min-h-screen">
           <About />
         </section>
-        <section id="timeline" className="min-h-screen">
-          <Timeline data={timelineData} />
+        <section id="experience" className="min-h-screen">
+          <Experience />
+        </section>
+        <section id="education" className="min-h-screen">
+          <Education />
+        </section>
+        <section id="certifications" className="min-h-screen">
+          <Certifications />
         </section>
         <section id="tech" className="min-h-screen">
           <TechSet />
